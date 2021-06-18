@@ -24,17 +24,24 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/lordarcadius",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/lordarcadius",
                 "style": "icon",
                 "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://instagram.com/lordarcadius",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/lordarcadius",
+                "style": "icon",
+                "icon_class": "twitter",
                 "new_window": true
             },
             {
@@ -45,7 +52,7 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Subscribe for new updates",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success",
