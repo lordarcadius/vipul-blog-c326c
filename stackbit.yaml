@@ -385,7 +385,7 @@ models:
         label: Image alt text (blog feed)
         description: The alt text of the blog feed image.
       - type: image
-        name: content_img_path
+        name: thumb_img_path
         label: Image (single post)
         description: The image shown in the single post.
       - type: string
