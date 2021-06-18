@@ -20,7 +20,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "content": "&copy; 2021 <a href=\"https://www.vipuljha.com\">  Vipul Jha</a> . All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -55,14 +55,6 @@
         "has_subscribe": false,
         "subscribe_title": "Subscribe for new updates",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
-        "subscribe_action": "/subscribe-success",
-        "links": [
-            {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
-                "new_window": true,
-                "style": "link"
-            }
-        ]
+        "subscribe_action": "/subscribe-success"
     }
 }
