@@ -15,7 +15,7 @@
     </header><!-- .post-header -->
     {{ if .Params.content_img_path }}
     <div class="post-thumbnail">
-      <img class="thumbnail" src="{{ $.Params.content_img_path | relURL }}" alt="{{ $.Params.content_img_alt }}" />
+      <img class="thumbnail" src="{{ $.Params.thumb_img_path | relURL }}" alt="{{ $.Params.content_img_alt }}" />
     </div>
     {{ end }}
     <div class="post-content inner-md">
