@@ -2,8 +2,8 @@
  * Site Header
  */
 .site-header {
-  background: #fff;
-  border-top: 5px solid _palette(accent);
+  background: #0f1624;
+  //border-top: 1px solid _palette(accent);
   border-bottom: 1px solid _palette(border);
   padding-bottom: 1.33333em;
   padding-top: 1.33333em;
@@ -38,7 +38,7 @@
 }
 
 .site-title {
-  color: _palette(secondary);
+  color: rgb(229, 226, 226);
   font-family: _font(secondary);
   font-size: 1.33333em;
   font-weight: bold;
@@ -103,7 +103,7 @@
 @media (max-width: 960px) {
   .site-header {
     &:after {
-      background: rgba(255,255,255,.75);
+      background: #0f1624;
       content: "";
       height: 100vh;
       left: 0;
@@ -126,7 +126,7 @@
   .site-nav {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background-color: #fff;
+    background-color: #0f1624;
     border-left: 1px solid _palette(border);
     box-sizing: border-box;
     bottom: 0;
