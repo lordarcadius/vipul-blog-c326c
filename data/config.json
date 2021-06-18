@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Ampersand Theme",
+    "title": "Vipul Jha",
     "layout_style": "grid",
     "palette": "green",
     "header": {
@@ -14,17 +14,7 @@
             },
             {
                 "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
+                "url": "https://www.vipuljha.com",
                 "style": "link"
             }
         ]
