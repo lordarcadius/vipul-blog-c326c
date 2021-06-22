@@ -4,7 +4,8 @@
     "palette": "green",
     "header": {
         "title": "Vipul Jha",
-        "logo_img_alt": "Ampersand Logo",
+        "logo_img": "https://www.vipuljha.com/logo.svg",
+        "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {

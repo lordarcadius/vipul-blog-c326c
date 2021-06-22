@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: true
+has_intro: false
 # intro_content: >-
 #   I am an aspiring Android developer who loves to work on apps, kernels, scripts
 #   and ROMs.
@@ -20,9 +20,9 @@ seo:
       value: Personal blog of Vipul Jha
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: https://www.vipuljha.com/images/banner.png
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Personal blog of Vipul Jha
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
-      relativeUrl: true
+      value: https://www.vipuljha.com/images/banner.png
+      relativeUrl: false
 layout: home
 ---
