@@ -7,17 +7,17 @@ has_intro: false
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Vipul Jha
-  description: Personal blog of Vipul Jha
+  title: Vipul Jha | Blogs
+  description: I write about technology, programming and few random stuff.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Vipul Jha
+      value: Vipul Jha | Blogs
       keyName: property
     - name: 'og:description'
-      value: Personal blog of Vipul Jha
+      value: I write about technology, programming and few random stuff.
       keyName: property
     - name: 'og:image'
       value: https://www.vipuljha.com/images/banner.png
@@ -26,9 +26,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Vipul Jha
+      value: Vipul Jha | Blogs
     - name: 'twitter:description'
-      value: Personal blog of Vipul Jha
+      value: I write about technology, programming and few random stuff.
     - name: 'twitter:image'
       value: https://www.vipuljha.com/images/banner.png
       relativeUrl: false
